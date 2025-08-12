@@ -35,7 +35,7 @@
 .button.button-default {
 	--button-text:#ffffff;
 	--button-background:#8B0000;
-	--button-border:1px solid #ffffff;
+	--button-border:1px solid #000000;
 }
 
 /* Amazon */
